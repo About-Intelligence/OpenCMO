@@ -92,7 +92,7 @@ open-cmo/
 
 ### The meta-patterns
 
-The most useful file in the repo is [deep-insights.md](references/guides/deep-insights.md): eleven patterns you can only see with all the operators side by side. A sample:
+The most useful file in the repo is [deep-insights.md](references/guides/deep-insights.md): eleven patterns you can only see with all the operators side by side, ending in **decision tables** — what works by company type, by stage, and the single variable that settles each famous expert fight. A sample of the patterns:
 
 - **The Amplifier Law.** Every paid channel amplifies; none of them generate. The four "when to start ads" positions above are one answer wearing four hats.
 - **The Moat Migration Law.** Content volume stopped being a moat. Proprietary data replaced it. Extractability — whether an AI can quote you — is replacing that.

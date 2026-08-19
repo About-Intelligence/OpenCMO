@@ -2,7 +2,9 @@
 
 > This is not any single expert's viewpoint. It captures the **patterns that only become visible** once you lay the library's 17 practitioners + 4 company teardowns side by side. Every entry carries a cross-source evidence chain — conclusions that a single source cannot support are not admitted.
 >
-> How to use it: when you face a concrete growth decision and the individual expert files give conflicting answers, come back here first for the meta-pattern, then return to the specific files for the operational detail.
+> How to use it: when you face a concrete growth decision and the individual expert files give conflicting answers, come back here first for the meta-pattern, then return to the specific files for the operational detail. For "what should I do, given my company type and stage," jump straight to [the decision tables](#the-decision-tables-what-works-by-category-and-by-stage) at the end.
+
+**The whole corpus compresses into two sentences.** First, the timeless one: growth never creates value — it amplifies something scarce, and every famous disagreement between these operators is really a disagreement about *what is scarce for you right now*. Second, the 2020s one: AI repriced scarcity — content, creative, and code left the scarce set, so every defense built on production volume is dying on schedule, while proprietary data, earned trust, live judgment, and the user's first minute remain expensive. The eleven patterns below are what those two sentences look like in the wild.
 
 ---
 
@@ -176,6 +178,41 @@ Four independent sources, none citing the others, describe the same compression:
 Three of the four arrived at this independently as **the** decision that mattered most, and the fourth (Phil) supplies the base-rate data explaining why. The old funnel — land, browse, return, activate over weeks — still exists in the analytics UI, but the behavior it modeled is disappearing.
 
 **Operational implication**: onboarding is not a flow bolted onto the product; at this point it *is* the product decision. Before spending on any amplifier (law #1), audit what a new user experiences in the first 60 seconds — that's where Gamma found 100x signup growth that no ad budget was going to buy. And measure it honestly: if 80% of your conversions happen on day zero, weekly-cohort dashboards are averaging away the only moment that matters.
+
+---
+
+## The decision tables: what works, by category and by stage
+
+Everything above is diagnosis. These tables are the prescription — built strictly from what the operators in this library actually did, sources named per row.
+
+### By what you're building
+
+| You're building | Build this engine first | Amplify with this later | Skip | Sources |
+|---|---|---|---|---|
+| **Dev tool** (Linear, Vercel, Cursor) | An opinionated product engineers evangelize; a methodology worth believing in; loops inside the product (deploy buttons, templates) | High-intent search; technically-trained Product Advocates working usage signals — not SDRs | Cold outbound, early paid, anything that smells like marketing | [Saarinen](../experts/karri-saarinen-linear.md), [Palomares](../experts/morgane-palomares-vercel.md), [Gelb](../experts/rex-gelb-cursor.md) |
+| **Prosumer / consumer AI** (Gamma, Granola, Wispr, Notion) | A first session good enough to tell a friend about; word of mouth seeded in dense circles (Granola: ~150 hand-onboarded users in VC/founder networks) | Micro-influencer fleets, never scripted, founder-onboarded; paid once tracking + payback are proven; lifecycle email | Brand campaigns before anyone recognizes you; letting paid pass ~50% of acquisition | [Lee](../experts/grant-lee-gamma.md), [Pedregal](../experts/chris-pedregal-granola.md), [Swulinski](../experts/matt-swulinski-wispr-flow.md), [Lang](../experts/ben-lang-notion-cursor.md), [Timen](../experts/yuriy-timen-grammarly.md) |
+| **B2B SaaS with a sales motion** (Deel) | Answers posted where buyers actually ask (communities — never automated); founder-led sales; a fast site with content that catches demand | Intent-filtered SEO at scale; long-tail media (~30% of leads); OOH/ABM once buyers know you — Series B+ | Awareness ads in the first 6–8 months | [Berkowitz](../experts/meltem-berkowitz-deel.md), [Chen](../experts/holly-chen-exponentialx.md) |
+| **AI app chasing volume** (Frank's, YouMind) | SEM as a lab that finds keywords where searchers *pay*; aggregation sites that earn their audience | SEO built only on validated keywords; GEO citations riding that SEO for free; social measured by brand-search lift | Optimizing for signups (every free user burns inference); fighting head terms with a weak domain | [Frank](../experts/frank-ai-overseas-growth.md), [Liu](../experts/jared-liu-youmind.md) |
+| **Data / UGC platform** (G2, OpenRouter, Glassdoor) | Behavioral data only your platform produces, published as pages | Aggregation across many dimensions; MCP/agent access as its own distribution channel | PSEO without proprietary data (the Jasper trap); publishing the data you monetize | [case teardowns](../cases/pseo-canonical-patterns.md) |
+
+### By stage
+
+| Stage | The only job | What it looks like | Watch | The classic mistake | Sources |
+|---|---|---|---|---|---|
+| **$0→1M** | Prove an engine exists | Hand-onboard users and watch them; live in one high-intent community; founder does everything; paid only as small experiments to learn | Week-4 retention >20%; organic pull; will anyone pay | Buying traffic to brute-force PMF | [Gelb](../experts/rex-gelb-cursor.md), [Pedregal](../experts/chris-pedregal-granola.md), [Lee](../experts/grant-lee-gamma.md) |
+| **$1→5M** | Make one channel repeatable | SEM validates keywords, SEO builds the asset on them; first creator program; every ship becomes a community update | Payback <3 months; CAC by channel | Ten channels at once, all mediocre | [Verna](../experts/elena-verna-lovable.md), [Frank](../experts/frank-ai-overseas-growth.md), [Chen](../experts/holly-chen-exponentialx.md), [Lang](../experts/ben-lang-notion-cursor.md) |
+| **$5→20M** | Scale the winner, drill the next well | Pour into the proven channel before costs rise; a creative-volume machine (400–500 fresh creatives/month per $100K on Meta); route PQLs to sales; translate what already works | Fully-loaded CAC (free credits + inference included); creative fatigue; brand-search share | Milking one well until it runs dry — you can't see a channel's bottom until you hit it | [Swulinski](../experts/matt-swulinski-wispr-flow.md), [Gelb](../experts/rex-gelb-cursor.md), [Timen](../experts/yuriy-timen-grammarly.md), [Canva teardown](../cases/canva-pseo.md) |
+| **$20M+** | Converge, then buy attention | Enterprise motion on PLG warm leads; OOH/ABM as bundles, not one billboard; make yourself legible to agents (GEO, MCP) | NRR; brand search; attribution graded by credibility tier | Believing direct traffic is free (it's lagged paid spend compounding); losing the product's warmth upmarket | [Chen](../experts/holly-chen-exponentialx.md), [Waters](../experts/lena-waters-notion.md), [Berkowitz](../experts/meltem-berkowitz-deel.md), [Timen](../experts/yuriy-timen-grammarly.md) |
+
+### When the experts fight, one variable settles it
+
+| The fight | What settles it |
+|---|---|
+| Paid now (Swulinski) vs. paid later (Verna, Gelb, Berkowitz) | Whether the engine is proven — "tracking + 50 conversions" and the PMF gates are the same checkpoint in different clothes (pattern #1) |
+| Generous free tier (Linear, Vercel) vs. capped free tier (Frank, Carter) | Marginal cost of a free user — near zero for a dev tool, real money per inference for AI (pattern #8) |
+| Focus on 2–3 channels (Swulinski) vs. always drill new wells (Timen) | Stage — focus until ~$10M, explore in parallel after, because you can't see a channel's depth until you hit bottom |
+| Cheapest good-enough model (Gamma) vs. frontier model at a loss (Granola) | Which lead you're taking — margin or quality; both treat model cost as a strategy variable (pattern #8) |
+| A year in stealth (Granola) vs. launch day one (openSEO) | Whether the core interaction is settled — a public launch locks it in |
 
 ---
 
