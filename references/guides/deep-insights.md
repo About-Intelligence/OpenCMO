@@ -1,6 +1,6 @@
-# Deep Insights: Ten Meta-Patterns Across 15 Practitioners
+# Deep Insights: Eleven Meta-Patterns Across 17 Practitioners
 
-> This is not any single expert's viewpoint. It captures the **patterns that only become visible** once you lay the library's 15 practitioners + 5 company cases side by side. Every entry carries a cross-source evidence chain — conclusions that a single source cannot support are not admitted.
+> This is not any single expert's viewpoint. It captures the **patterns that only become visible** once you lay the library's 17 practitioners + 4 company teardowns side by side. Every entry carries a cross-source evidence chain — conclusions that a single source cannot support are not admitted.
 >
 > How to use it: when you face a concrete growth decision and the individual expert files give conflicting answers, come back here first for the meta-pattern, then return to the specific files for the operational detail.
 
@@ -17,6 +17,8 @@ Each of them simply stresses a different part of the engine:
 - Matt stresses **tracking** (with distorted signal, the algorithm targets people at random — "most of the time it's not that paid doesn't work — it's that you never set it up properly")
 - Meltem stresses **the landing side** (a site slower than 4 seconds / content that can't catch the traffic means the spend is wasted anyway)
 - Elena stresses **the math** (if you can't work out the payback period, don't start)
+
+The strongest first-hand statement of the law now comes from Grant Lee (Gamma). After the launch that took Gamma from a few hundred to 20,000 signups a day with zero marketing, he set a hard ceiling: **if more than 50% of your acquisition is paid, "your core growth engine is broken."** And on the temptation at the pre-PMF plateau: "The temptation would've been, hey, let's just spend more on ads or spend more on marketing... I think that would've been a trap. I think that would've led us down this path of trying to brute force our way into product market fit." He chose to rebuild the product's first 30 seconds instead of buying traffic — the amplifier-vs-engine decision in its purest recorded form.
 
 OOH obeys this law too: Notion's out-of-home campaign succeeded precisely because it came **late** — the billboards put the product UI itself on display, amplifying awareness that already existed; "if we had done this on day one, people would have asked: what am I looking at?" Stytch's Series B+ threshold and Elena's "with unlimited budget, OOH is the first thing I'd buy" are saying the same thing: **this is a maturity-stage amplifier.**
 
@@ -84,6 +86,8 @@ Three independent data points converge on the same conclusion:
 - openSEO teardown: the 11.6k stars came from "indie developers who find Ahrefs expensive," while the imagined payers were "media-buying teams with ad budgets" — "**the problem isn't that the chain is long; it's that the bottom of the funnel can't catch anyone at all**"
 - Jasper: its top US search terms were **all brand terms** — once brand demand collapsed (revenue $120M→$55M after the ChatGPT shock), the traffic inevitably collapsed with it, **regardless of content quality**
 
+Granola adds the positive-selection version of the same law: Chris Pedregal picked his wedge **by signal density, not TAM** — VCs first, then founders, on the logic that "if we could build a great product for founders, by default it would be a decent product for everyone else." A tiny audience, chosen because its members talk to each other constantly, out-distributed any broad launch — roughly 150 hand-onboarded beta users seeded word-of-mouth through circles where one convinced user reaches dozens of lookalikes.
+
 There is also a positive mirror image: Meltem's community playbook deliberately warns that "in a subreddit of a thousand people, the most you can win is the 10% who actually have this problem" — **check the audience-size ceiling first**, then decide the investment. Two sides of the same law.
 
 **Operational implication**: before green-lighting any traffic project, run two calculations — ① within this channel's audience, what share is my ICP? ② at that share and ceiling, how many people remain after walking the whole funnel? For projects where no one remains, the prettier the traffic numbers, the more dangerous the project — because it consumes the resources that should go to the things that actually matter.
@@ -125,7 +129,7 @@ Traditional SaaS growth assumes marginal cost trending to zero; AI products smas
 - **The algorithm-level trap**: Meta/Google's algorithms were **never optimized for usage-based products** — the same "new user" might contribute $50,000 a year or $50, and the algorithm has no idea what to do with that variance (Matt)
 - **Trials**: a longer trial is not necessarily better — giving away 30 days of full features attracts heavy-consumption users who leave the moment it ends; a shorter trial + usage caps actually pushes users to judge value quickly (Phil)
 - **Pricing**: AI usage is bursty/intermittent, so you must offer on-demand top-ups beyond the subscription — Lovable found in practice that **top-ups not only didn't hurt subscription revenue, they improved retention** (Elena); the long-term direction is moving from "pay per call" to "pay per outcome"
-- **Model choice is a growth decision**: one reason Gamma reached profitability in six months is that it never treated the strongest model as the only answer (Phil)
+- **Model choice is a growth decision — and both directions are viable strategies**: Gamma tested 20+ models in production and shipped the cheapest good-enough one per use case, which is a large part of how a ~50-person team stayed profitable (Grant Lee, first-hand — confirming what Phil had reported secondhand). Granola ran the exact opposite play: burn frontier-model margin that incumbents can't afford at their scale, and bet on cost collapse — Chris Pedregal's "**your marginal cost is my opportunity**." Opposite answers, same underlying move: **model cost is a strategy variable, not a given**
 
 **Operational implication**: the growth lead of an AI product is, in substance, doing **gross-margin management**. Every acquisition channel's scorecard must include a column for "the inference-cost profile of this channel's users"; every free feature must answer "is this an acquisition cost or a leak" before launch.
 
@@ -157,6 +161,21 @@ Signals scattered across four sources point to the same shift, already underway:
 - **Phil**: because Reddit is a major corpus source for LLMs, it has in turn become a growth surface worth cultivating — your genuine presence on Reddit shapes how LLMs mention you
 
 **Operational implication**: before shipping any external asset (page, doc, tool), ask three times: **can a human understand it? can an algorithm rank it? can an agent lift it / call it?** The three audiences' preferences will conflict (humans like visuals, agents like structured text); when they do, the answer is not either/or — it is what Canva should have done: two page types for the same intent. For tool products, "exposing an MCP/API for agents to call directly" is itself an independent distribution channel.
+
+---
+
+## 11. The funnel has collapsed into the first session
+
+Four independent sources, none citing the others, describe the same compression:
+
+- **Elena (Lovable)**: "the traditional 'aha moment' has collapsed into the first interaction" — AI products deliver value so immediately that there is no room for a seven-step onboarding tour
+- **Phil (RevenueCat data)**: in consumer subscriptions, **80%+ of trials now start on day zero**, some categories near 90% — "you have to convert in the first session, or the user most likely never converts." His working window: the first 30–60 seconds
+- **Grant Lee (Gamma)**: after winning Product Hunt day, week, and month and still watching signups plateau, the bet-the-company decision was not a channel, a feature, or a price — it was "we are going to do everything we possibly can to make **the first 30 seconds** of the product feel magical." Result: a few hundred signups a day became 20,000, with no marketing
+- **Chris Pedregal (Granola)**: spent a year learning "literally by sitting next to someone watching them try to install it and use it" — treating the first contact as the product, and cutting half the features (including their best demo) because they degraded it
+
+Three of the four arrived at this independently as **the** decision that mattered most, and the fourth (Phil) supplies the base-rate data explaining why. The old funnel — land, browse, return, activate over weeks — still exists in the analytics UI, but the behavior it modeled is disappearing.
+
+**Operational implication**: onboarding is not a flow bolted onto the product; at this point it *is* the product decision. Before spending on any amplifier (law #1), audit what a new user experiences in the first 60 seconds — that's where Gamma found 100x signup growth that no ad budget was going to buy. And measure it honestly: if 80% of your conversions happen on day zero, weekly-cohort dashboards are averaging away the only moment that matters.
 
 ---
 

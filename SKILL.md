@@ -111,7 +111,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 |-------|----------|
 | New to growth? Start here | [guides/growth-101-four-pillars.md](references/guides/growth-101-four-pillars.md) |
 | Taking a PLG product into enterprise | [guides/plg-to-enterprise.md](references/guides/plg-to-enterprise.md) |
-| Ten meta-patterns you can only see across all 17 operators | [guides/deep-insights.md](references/guides/deep-insights.md) |
+| Eleven meta-patterns you can only see across all 17 operators | [guides/deep-insights.md](references/guides/deep-insights.md) |
 
 ## Scenario navigation
 
