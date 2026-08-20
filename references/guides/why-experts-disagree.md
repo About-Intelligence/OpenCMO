@@ -1,6 +1,6 @@
 # Why the experts disagree
 
-> Ten real disagreements between the operators in this library — and the reason each one exists. The claim of this file: **almost nobody is wrong, and the disagreements aren't personality. They are projections of a small number of product variables.** Two operators standing at different coordinates of the same variables will give you opposite advice, and both will have the receipts.
+> Ten real disagreements between the experts in this library — and the reason each one exists. The claim of this file: **almost nobody is wrong, and the disagreements aren't personality. They are projections of a small number of product variables.** Two experts standing at different coordinates of the same variables will give you opposite advice, and both will have the receipts.
 >
 > Use this file when two expert files give opposite instructions. First locate your product on the six variables below, then read the fight — the side you should take usually falls out of your coordinates.
 
@@ -172,6 +172,6 @@ Sort the ten fights by what actually generates them:
 | **Stage** | Focus vs. wells (7), unmeasurable channels (8, partly) | ARR and what share of budget is experimental |
 | **Era / platform shift** | SEO's role (9, partly), creator floor (5, partly) | Date-stamp the advice; check if the platform economics still hold |
 
-Every operator's advice compresses their coordinates into an imperative sentence, and the coordinates get lost in transmission. "Start paid immediately" carries an invisible suffix: *...for a universal-need product whose value shows in seconds, bought in one session, with no native loop.* "Don't A/B test" means *...when your differentiation is a point of view and your audience punishes blandness.* "Burn frontier-model margin" means *...when trust in the raw output is the product and your usage per user is bounded.*
+Every expert's advice compresses their coordinates into an imperative sentence, and the coordinates get lost in transmission. "Start paid immediately" carries an invisible suffix: *...for a universal-need product whose value shows in seconds, bought in one session, with no native loop.* "Don't A/B test" means *...when your differentiation is a point of view and your audience punishes blandness.* "Burn frontier-model margin" means *...when trust in the raw output is the product and your usage per user is bounded.*
 
-The discipline, when importing any rule from this library: **reconstruct the suffix**. Find the operator's row in the table — who needed their product, how fast its value showed, who signed the check, what a user cost to serve, whether the output advertised itself, and how opinionated the product was. If your row looks like theirs, take the rule. If it doesn't, the rule isn't wrong. It's someone else's.
+The discipline, when importing any rule from this library: **reconstruct the suffix**. Find that expert's row in the table — who needed their product, how fast its value showed, who signed the check, what a user cost to serve, whether the output advertised itself, and how opinionated the product was. If your row looks like theirs, take the rule. If it doesn't, the rule isn't wrong. It's someone else's.

@@ -1,8 +1,8 @@
 # OpenCMO
 
-<img src="assets/hero-v2.png" alt="OpenCMO — growth playbooks from 16 operators, installable in your AI agent" width="100%">
+<img src="assets/hero-v2.png" alt="OpenCMO — growth playbooks from 16 experts, installable in your AI agent" width="100%">
 
-> The open-source CMO. Growth playbooks from 16 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
+> The open-source CMO. Growth playbooks from 16 experts who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
 **Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home & ABM &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
 
@@ -14,9 +14,9 @@
 
 Ask any AI assistant "should we start running ads?" and you get a balanced, reasonable, useless answer.
 
-Ask an agent with OpenCMO installed, and you get four operators who disagree:
+Ask an agent with OpenCMO installed, and you get four experts who disagree:
 
-| Operator | Position | Their precondition | Track record |
+| Expert | Position | Their precondition | Track record |
 |----------|----------|--------------------|--------------|
 | Matt Swulinski (Wispr Flow) | Start immediately | Conversion tracking works + 50 conversions banked | $2M→$50M ARR in 12 months |
 | Rex Gelb (Cursor) | Not before PMF | Week-4 retention >20% | Runs paid media at Cursor |
@@ -30,7 +30,7 @@ Real growth knowledge looks like this: conditional, contextual, and contradictor
 Three rules govern everything in here:
 
 1. **Named people, direct quotes.** No anonymous "experts say." Every claim has a person, a date, and a link.
-2. **Conflicts stay visible.** When operators disagree, we build a comparison table instead of picking a winner. The disagreement is the information.
+2. **Conflicts stay visible.** When experts disagree, we build a comparison table instead of picking a winner. The disagreement is the information.
 3. **Evidence gets graded.** First-hand quote, media coverage, company self-report, or third-party estimate — every number is labeled. We also debunk: the file on Jasper exists mostly to show why the "Google penalized their AI content" story doesn't survive contact with the evidence.
 
 ## Install
@@ -67,14 +67,14 @@ The agent answers by citing specific people and their specific conditions, not b
 open-cmo/
 ├── SKILL.md                     # entry point: expert index + scenario navigation
 └── references/
-    ├── experts/    16 operators          # theses, verbatim quotes, contrarian takes, conflicts
+    ├── experts/    16 experts          # theses, verbatim quotes, contrarian takes, conflicts
     ├── cases/       4 teardowns (10+ companies)  # PSEO canon, Canva deep-dive, OpenRouter, Jasper debunk
     ├── channels/    4 channels           # Google, Meta, LinkedIn, out-of-home
     ├── topics/      9 topics             # timing, creative, attribution, SEO, pricing, launches...
     └── guides/      4 guides             # growth 101, PLG→enterprise, meta-patterns, why experts disagree
 ```
 
-### The operators
+### The experts
 
 | Person | Background | One line to remember them by |
 |--------|-----------|------------------------------|
@@ -97,7 +97,7 @@ open-cmo/
 
 ### The meta-patterns
 
-The most useful file in the repo is [deep-insights.md](references/guides/deep-insights.md): eleven patterns you can only see with all the operators side by side, ending in **decision tables** — what works by company type, by stage, and the single variable that settles each famous expert fight. A sample of the patterns:
+The most useful file in the repo is [deep-insights.md](references/guides/deep-insights.md): eleven patterns you can only see with all the experts side by side, ending in **decision tables** — what works by company type, by stage, and the single variable that settles each famous expert fight. A sample of the patterns:
 
 - **The Amplifier Law.** Every paid channel amplifies; none of them generate. The four "when to start ads" positions above are one answer wearing four hats.
 - **The Moat Migration Law.** Content volume stopped being a moat. Proprietary data replaced it. Extractability — whether an AI can quote you — is replacing that.
@@ -115,13 +115,13 @@ The most useful file in the repo is [deep-insights.md](references/guides/deep-in
 
 ## Contributing
 
-Found a good first-hand interview or teardown? See [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence standards. The biggest gaps right now: enterprise B2B (CMO-level operators), consumer products, and non-US markets.
+Found a good first-hand interview or teardown? See [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence standards. The biggest gaps right now: enterprise B2B (CMO-level experts), consumer products, and non-US markets.
 
 ## Roadmap
 
-- [ ] More operators: Bill Macaitis (ex-Slack CMO), Kipp Bodnar (HubSpot), consumer growth leads
+- [ ] More experts: Bill Macaitis (ex-Slack CMO), Kipp Bodnar (HubSpot), consumer growth leads
 - [ ] Retention & lifecycle topic file
-- [ ] MCP server so agents can query the library by operator × scenario
+- [ ] MCP server so agents can query the library by expert × scenario
 - [ ] Chinese translation
 
 ## License

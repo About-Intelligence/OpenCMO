@@ -4,7 +4,7 @@
 >
 > How to use it: when you face a concrete growth decision and the individual expert files give conflicting answers, come back here first for the meta-pattern, then return to the specific files for the operational detail. For "what should I do, given my company type and stage," jump straight to [the decision tables](#the-decision-tables-what-works-by-category-and-by-stage) at the end.
 
-**The whole corpus compresses into two sentences.** First, the timeless one: growth never creates value — it amplifies something scarce, and every famous disagreement between these operators is really a disagreement about *what is scarce for you right now*. Second, the 2020s one: AI repriced scarcity — content, creative, and code left the scarce set, so every defense built on production volume is dying on schedule, while proprietary data, earned trust, live judgment, and the user's first minute remain expensive. The eleven patterns below are what those two sentences look like in the wild.
+**The whole corpus compresses into two sentences.** First, the timeless one: growth never creates value — it amplifies something scarce, and every famous disagreement between these experts is really a disagreement about *what is scarce for you right now*. Second, the 2020s one: AI repriced scarcity — content, creative, and code left the scarce set, so every defense built on production volume is dying on schedule, while proprietary data, earned trust, live judgment, and the user's first minute remain expensive. The eleven patterns below are what those two sentences look like in the wild.
 
 ---
 
@@ -183,7 +183,7 @@ Three of the four arrived at this independently as **the** decision that mattere
 
 ## The decision tables: what works, by category and by stage
 
-Everything above is diagnosis. These tables are the prescription — built strictly from what the operators in this library actually did, sources named per row.
+Everything above is diagnosis. These tables are the prescription — built strictly from what the experts in this library actually did, sources named per row.
 
 ### By what you're building
 

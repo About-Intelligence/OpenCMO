@@ -1,7 +1,7 @@
 ---
 name: open-cmo
 description: >
-  Real-world growth & GTM know-how from 16 tech-company operators.
+  Real-world growth & GTM know-how from 16 tech-company experts.
   Covers: paid ads (Google/Meta/LinkedIn), out-of-home & ABM, channel selection,
   PLG→Enterprise, SEO/GEO, programmatic SEO, launches & Product Hunt,
   pricing & monetization for AI products, ad creative strategy, organic and
@@ -18,10 +18,10 @@ description: >
   the AI citation paradox), OpenRouter's data-flywheel PSEO, and a debunk of
   the widely-miscited Jasper traffic story.
 intent: >-
-  Use when you need growth strategy grounded in what real operators did and said,
+  Use when you need growth strategy grounded in what real experts did and said,
   not generic frameworks. Ask about paid ads, channel selection, PLG transitions,
   SEO/PSEO/GEO, launches, pricing, creative strategy, growth engineering,
-  or "what would [operator] do in my situation."
+  or "what would [expert] do in my situation."
 triggers:
   - paid ads: run ads / media buying / ad budget / creative testing / CAC / ROAS
   - channels: Google Ads / Meta / Facebook / LinkedIn / SEM / cold-start channel
@@ -42,7 +42,7 @@ metadata:
   language: en
 ---
 
-# OpenCMO — a growth knowledge base built from named operators
+# OpenCMO — a growth knowledge base built from named experts
 
 First-hand experience from people who ran growth at real companies. Not framework templates: specific people, direct quotes, sources linked, disagreements preserved.
 
@@ -50,7 +50,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 
 ### AI-native products
 
-| Operator | Company | Product type | Core thesis | File |
+| Expert | Company | Product type | Core thesis | File |
 |----------|---------|-------------|-------------|------|
 | Jared Liu (宗源) | YouMind | AI consumer tools | Aggregation-site flywheel + newsjacking + agent automation | [→](references/experts/jared-liu-youmind.md) |
 | Frank | AI product, 5M users | AI consumer/prosumer | Four-pillar system (SEM→SEO→GEO→social); paid conversion first | [→](references/experts/frank-ai-overseas-growth.md) |
@@ -61,7 +61,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 
 ### Productivity / dev tools (PLG)
 
-| Operator | Company | Product type | Core thesis | File |
+| Expert | Company | Product type | Core thesis | File |
 |----------|---------|-------------|-------------|------|
 | Ben Lang | Notion / Cursor | Productivity, PLG | Full creator videos + genuine usage; evergreen signup flywheel | [→](references/experts/ben-lang-notion-cursor.md) |
 | Lena Waters | Notion | PLG→Enterprise | Show don't tell; PLG and enterprise are one loop; agentic GTM | [→](references/experts/lena-waters-notion.md) |
@@ -70,7 +70,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 
 ### Paid media & growth advisors
 
-| Operator | Company | Focus | Core thesis | File |
+| Expert | Company | Focus | Core thesis | File |
 |----------|---------|-------|-------------|------|
 | Rex Gelb | Cursor | LinkedIn/Google/Meta | Don't buy ads before PMF; staged SEM; in 2026 AI runs bidding — creative/tracking/landing pages are the levers left | [→](references/experts/rex-gelb-cursor.md) |
 | Elena Verna | Lovable (ex-Miro/Dropbox) | AI prosumer / advisor | "60–70% of traditional growth tactics don't apply anymore"; PMF treadmill; the aha moment collapsed into the first interaction | [→](references/experts/elena-verna-lovable.md) |
@@ -139,7 +139,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 | Aggregation sites, newsjacking, viral loops? | [topics/organic-viral-growth.md](references/topics/organic-viral-growth.md) |
 | YouTube/KOL strategy? | [experts/ben-lang-notion-cursor.md](references/experts/ben-lang-notion-cursor.md) |
 | How is GTM changing in the agent era? | [experts/lena-waters-notion.md](references/experts/lena-waters-notion.md) |
-| **Full operator views** | |
+| **Full expert views** | |
 | One person running an entire paid program with agents? | [experts/matt-swulinski-wispr-flow.md](references/experts/matt-swulinski-wispr-flow.md) |
 | $300M ARR without burning cash — how? | [experts/meltem-berkowitz-deel.md](references/experts/meltem-berkowitz-deel.md) |
 | When to find new channels, and how to evaluate one? | [experts/yuriy-timen-grammarly.md](references/experts/yuriy-timen-grammarly.md) |
@@ -152,7 +152,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. Short version:
 
 1. Primary sources only; grab the original with a scraper, not a summary of a summary
-2. New operator → `references/experts/name-company.md` (structure per [rex-gelb-cursor.md](references/experts/rex-gelb-cursor.md)); company analysis without a named person → `references/cases/`
+2. New expert → `references/experts/name-company.md` (structure per [rex-gelb-cursor.md](references/experts/rex-gelb-cursor.md)); company analysis without a named person → `references/cases/`
 3. Update the relevant `channels/` and `topics/` files
 4. Update this file's index tables + `experts_count`
 5. **Conflicts are preserved, never overwritten** — build comparison tables (canonical example: the four positions in [topics/pmf-timing.md](references/topics/pmf-timing.md))
