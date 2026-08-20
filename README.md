@@ -36,13 +36,13 @@ Three rules govern everything in here:
 Claude Code, global:
 
 ```bash
-git clone https://github.com/About-Intelligence/open-cmo.git ~/.claude/skills/open-cmo
+git clone https://github.com/About-Intelligence/OpenCMO.git ~/.claude/skills/open-cmo
 ```
 
 Claude Code, single project:
 
 ```bash
-git clone https://github.com/About-Intelligence/open-cmo.git .claude/skills/open-cmo
+git clone https://github.com/About-Intelligence/OpenCMO.git .claude/skills/open-cmo
 ```
 
 Cursor, Codex, or anything else that reads markdown: clone the repo and point your rules/context at `SKILL.md`.
