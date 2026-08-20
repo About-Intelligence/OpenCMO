@@ -2,6 +2,8 @@
 
 > The open-source CMO. Growth playbooks from 17 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
+**Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home & ABM &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Experts](https://img.shields.io/badge/experts-17-blue) ![Cases](https://img.shields.io/badge/case_teardowns-4-orange)
 
 ---
@@ -19,7 +21,7 @@ Ask an agent with OpenCMO installed, and you get four operators who disagree:
 | Elena Verna (Lovable) | Year one is a death trap | Payback period under 3 months | $400M ARR in 18 months |
 | Meltem Berkowitz (Deel) | Foundations first | Site loads <4s, findable, content to catch demand | 0→$300M in 3 years, profitably |
 
-Paid ads are just the demo. The library gives the same treatment to the whole growth stack: SEO and programmatic SEO, launches and Product Hunt, pricing and monetization, creator and influencer programs, out-of-home and ABM, PLG-to-enterprise, attribution, and growth engineering with agents.
+Paid ads are just the demo — every area listed at the top gets the same treatment.
 
 Real growth knowledge looks like this: conditional, contextual, and contradictory. Average the disagreements away and you get soup.
 
