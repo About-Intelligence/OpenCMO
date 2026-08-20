@@ -74,7 +74,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 |----------|---------|-------|-------------|------|
 | Rex Gelb | Cursor | LinkedIn/Google/Meta | Don't buy ads before PMF; staged SEM; in 2026 AI runs bidding — creative/tracking/landing pages are the levers left | [→](references/experts/rex-gelb-cursor.md) |
 | Elena Verna | Lovable (ex-Miro/Dropbox) | AI prosumer / advisor | "60–70% of traditional growth tactics don't apply anymore"; PMF treadmill; the aha moment collapsed into the first interaction | [→](references/experts/elena-verna-lovable.md) |
-| Holly Chen | ExponentialX (ex-Slack/Miro/Loom) | PLG→SLG advisor | Channel choice follows ARR stage; PLG/SLG converge past $20M; B2B influencer marketing | [→](references/experts/holly-chen-exponentialx.md) |
+| Holly Chen | ExponentialX (ex-Slack/Google/Loom/Miro) | PLG→SLG advisor | Channel choice follows ARR stage; PLG/SLG converge past $20M; B2B influencer marketing | [→](references/experts/holly-chen-exponentialx.md) |
 | Phil Carter | Elemental Growth (ex-Quizlet) | Consumer subscription advisor | Growth split into Creation/Delivery/Capture; 80% of trials start day zero; value-to-noise ratio; viral artifacts + AEO | [→](references/experts/phil-carter-elemental-growth.md) |
 | Meltem Kuran Berkowitz | Deel | B2B SaaS, CGO | 0→$300M in 3 years, profitably; foundations-first sequencing; SEO traffic-light framework; never automate community replies | [→](references/experts/meltem-berkowitz-deel.md) |
 | Yuriy Timen | Grammarly (advisor to Canva/Airtable) | Consumer/prosumer subscription | Oil-wells channel theory; "best content doesn't always win" but brands can't chase shortcuts; expected-value channel expansion | [→](references/experts/yuriy-timen-grammarly.md) |

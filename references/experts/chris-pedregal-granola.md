@@ -1,5 +1,7 @@
 # Chris Pedregal — Granola, zero growth loops, zero early marketing, $1.5B on product love
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/pedregal) · [X](https://x.com/cjpedregal)
+
 **Role**: Co-founder & CEO of Granola (AI meeting notepad; founded March 2023 in London with designer co-founder Sam Stephenson). Ex-Google APM; founded Socratic (AI tutoring, acquired by Google 2018). Granola: $4.25M seed (Lightspeed, May 2023) → $20M Series A (Spark, Oct 2024) → $43M Series B at $250M (NFDG, May 2025) → $125M Series C at $1.5B (Index, March 2026).
 **Sources**:
 - 🎙️ FIRST-HAND: Silicon Valley Girl podcast, "$1.5B CEO: How to Build in a Crowded AI Market Without Marketing" (2026-05-29) — full transcript at [podscripts.co](https://podscripts.co/podcasts/silicon-valley-girl-ai-tech-and-career-growth/15b-ceo-how-to-build-in-a-crowded-ai-market-without-marketing-christopher-pedregal-granola). Note: ASR transcript; quotes below chosen from clean passages.

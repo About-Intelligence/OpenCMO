@@ -1,5 +1,7 @@
 # Phil Carter — Elemental Growth, an AI Subscription Product Growth Framework
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/philgcarter) · [X](https://x.com/philgcarter) · [Site](https://www.philgcarter.com/)
+
 **Who**: independent growth advisor at Elemental Growth and angel investor (former head of growth product at Quizlet); long-time advisor to consumer subscription companies  
 **Source**:
 - Sub Club by RevenueCat podcast: "The AI Growth Playbook for Subscription Apps"

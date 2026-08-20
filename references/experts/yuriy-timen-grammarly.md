@@ -1,6 +1,8 @@
 # Yuriy Timen — Grammarly, the "Oil Well" View of Channels and Long-Termism on Content Quality
 
-**Who**: former Global Head of Marketing & Growth at Grammarly (~9 years; through 12 → 500 people, $200M raised, 30M DAU); now a full-time growth advisor serving 35+ companies, including **Canva, Airtable, Whimsical, Otter.ai, Oyster, Flo Health, Clay**
+**Find them**: [LinkedIn](https://www.linkedin.com/in/yuriytimen) · [X](https://x.com/TheTimenator) · [Site](https://www.yuriytimen.com/)
+
+**Who**: former Global Head of Marketing & Growth at Grammarly (~9 years; through 12 → 500 people, $200M raised, 30M DAU); since then a growth advisor to 35+ companies, and as of 2026 back in an operator seat leading growth at Superhuman, including **Canva, Airtable, Whimsical, Otter.ai, Oyster, Flo Health, Clay**
 **Source**:
 - Marketing Strategies Podcast EP19 (Matt Byrom), 2018 — [full transcript](https://mattbyrom.com/msp-interview-yuriy-timen-grammarly) (this file's main cited source, **first-hand**)
 - Lenny's Podcast "How to grow a subscription business", 2022-09 — [page](https://www.lennysnewsletter.com/p/transform-your-subscription-growth) (⚠️ full transcript requires a subscription; its body is not cited here)

@@ -1,5 +1,7 @@
 # Frank — Full-Funnel Overseas Growth for AI Products
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/yaoquan-fu-76878220b/) · WeChat account `AI产品Frank`
+
 **Who**: Head of overseas growth for an AI product with 5M users (full funnel: Google Ads, SEO, GEO, social)  
 **Source**: WeChat official account "AI产品Frank", 2026-04-23  
 **Original**: https://mp.weixin.qq.com/s/V0Vz_PrrB-1EG8uDS6dZdQ

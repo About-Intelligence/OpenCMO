@@ -1,5 +1,7 @@
 # Elena Verna — Lovable, Redefining PLG for the AI Era
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/elenaverna) · [X](https://x.com/ElenaVerna)
+
 **Who**: CPO at Lovable (formerly Miro CPO, Dropbox VP Growth, SurveyMonkey SVP Growth), growth advisor  
 **Source**:
 - Lenny's Podcast, 2025-12-09: "Growth in the age of AI"

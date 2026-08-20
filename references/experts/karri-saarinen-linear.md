@@ -1,5 +1,7 @@
 # Karri Saarinen — Linear, Methodology as Growth Strategy
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/karrisaarinen) · [X](https://x.com/karrisaarinen) · [Site](https://karrisaarinen.com/)
+
 **Who**: Linear CEO & co-founder, former Coinbase designer, former Airbnb senior designer  
 **Sources**:
 - Linear Method docs: https://linear.app/method

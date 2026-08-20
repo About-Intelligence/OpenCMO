@@ -1,5 +1,7 @@
 # Matt Swulinski — Wispr Flow, One Person Carrying an Entire Paid Media Department
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/mattswulinski) · [X](https://x.com/MattSwulinski)
+
 **Who**: Head of Growth at Viktor (an Accel-backed AI employee product); previously the first marketing/growth hire at Wispr Flow; before that, growth at Superhuman (later acquired by Grammarly)
 **Source**:
 - 20VC podcast "How to Build a $100M Growth Engine: Lessons from Wispr Flow & Superhuman", hosted by Harry Stebbings

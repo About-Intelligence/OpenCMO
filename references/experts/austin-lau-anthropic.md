@@ -1,5 +1,7 @@
 # Austin Lau — Anthropic, the marketer who builds his own tools
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/austinlau1) · [X](https://x.com/helloitsaustin)
+
 **Role**: Growth marketer at Anthropic (performance marketing / paid acquisition)
 **Sources**:
 - "How Anthropic's Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code" — official Anthropic blog, 2026-01-26 ([link](https://claude.com/blog/how-anthropic-uses-claude-marketing)) — **first-hand** (direct quotes from Austin throughout)

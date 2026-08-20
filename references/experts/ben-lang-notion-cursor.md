@@ -1,5 +1,7 @@
 # Ben Lang — Notion Early Growth & Influencer Marketing
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/benmlang) · [X](https://x.com/benln) · [Site](https://benlang.me/)
+
 **Who**: Early Notion employee (Head of Community & Growth), now growth advisor at Cursor, angel investor  
 **Source**: Medium / beehiiv article, 2024-03-25  
 **Original**: https://medium.com/@benln/how-we-unlocked-influencer-marketing-in-the-early-days-of-notion-to-drive-millions-of-signups-b7b60a6774b1

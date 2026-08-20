@@ -1,5 +1,7 @@
 # Rex Gelb — Head of Paid Media at Cursor
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/rex-gelb-43445b1b) · [Summit Chase](https://www.summitchase.co/about)
+
 ## Source
 
 - **Name**: Rex Gelb

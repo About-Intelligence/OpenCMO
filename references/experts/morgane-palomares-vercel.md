@@ -1,5 +1,7 @@
 # Morgane Palomares — Vercel, Dev-Tools PLG→Enterprise
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/morganepalomares) · [X](https://x.com/morgane_paloma)
+
 **Who**: Former Vercel VP of Marketing (→ Braintrust); public coverage consistently titles her VP of Marketing, though her remit spanned growth  
 **Sources**:
 - Lenny's Podcast, 2024-09: "How Vercel grows"

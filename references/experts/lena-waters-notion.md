@@ -1,5 +1,7 @@
 # Lena Waters — Notion CMO, PLG + Enterprise Growth in the AI Era
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/lenawaters)
+
 **Who**: Notion CMO (joined April 2025), former growth executive at Grammarly and Docusign, 20+ years in B2B marketing  
 **Sources**:
 - Future of Marketing podcast (Substack), 2026-02-19: https://thefutureofmarketing.substack.com/p/rethinking-workflows-in-the-age-of-8b8

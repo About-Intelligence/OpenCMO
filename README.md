@@ -87,7 +87,7 @@ open-cmo/
 | Lena Waters | CMO, Notion | "We used to sell to humans who researched with tools. Now we sell to tools that report to humans" |
 | Ben Lang | Early Notion / Cursor | Full-length creator videos over ad reads; evergreen signup flywheels |
 | Morgane Palomares | ex-VP Marketing, Vercel | Replaced SDRs with technically-trained Product Advocates |
-| Holly Chen | ExponentialX (ex-Slack/Miro) | Channel choice follows ARR stage; PLG and sales-led converge past $20M |
+| Holly Chen | ExponentialX (ex-Slack, Google, Loom, Miro) | Channel choice follows ARR stage; PLG and sales-led converge past $20M |
 | Phil Carter | Elemental Growth (ex-Quizlet) | 80% of trials start on day zero — the first session is the whole game |
 | Jared Liu (宗源) | Growth engineer, YouMind | Aggregation-site flywheels; "growth while you sleep" via agent automation |
 | Frank | AI product, 5M users | The four-pillar system: SEM validates, SEO builds the asset, GEO rides along, social amplifies the brand |

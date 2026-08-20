@@ -1,6 +1,8 @@
 # Meltem Kuran Berkowitz — Deel, Cheap Channels + SEO Carrying Half of Growth
 
-**Who**: Chief Growth Officer (CGO) at Deel; employee #2 on the marketing team and #19–20 company-wide; previously led marketing at Bench Accounting
+**Find them**: [LinkedIn](https://www.linkedin.com/in/meltem-kuran-berkowitz-4721114b) · [X](https://x.com/meltemkuran)
+
+**Who**: led growth at Deel (Chief Growth Officer; on sabbatical as of 2026); employee #2 on the marketing team and #19–20 company-wide; previously led marketing at Bench Accounting
 **Source**:
 - Lenny's Podcast, hosted by Lenny Rachitsky
 - Chinese deep-read: [(Strongly recommended) Deel's Chief Growth Officer shares internal product growth lessons](https://mp.weixin.qq.com/s/9iAjq5SEfuPWben7bPyqrg) (2023-09-21)

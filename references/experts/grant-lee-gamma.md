@@ -1,5 +1,7 @@
 # Grant Lee — Gamma, "dumbest idea ever heard" to $100M ARR with 50 people, profitably
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/grantslee) · [X](https://x.com/thisisgrantlee)
+
 **Role**: Co-founder & CEO of Gamma (AI presentations/websites; founded 2020 with James Fox and Jon Noronha, all ex-Optimizely). $100M ARR in ~2.5 years after the AI relaunch, $2.1B valuation, profitable for 2 years, ~50 employees, only $23M raised before the Series B.
 **Sources**:
 - 🎙️ FIRST-HAND: Lenny's Podcast, "'Dumbest idea I've heard' to $100M ARR: Inside the rise of Gamma" (2025-11-13) — [episode page](https://www.lennysnewsletter.com/p/how-50-people-built-a-profitable-ai-unicorn) · [YouTube](https://www.youtube.com/watch?v=3H0ngGU5pbM). Full transcript verified; all podcast quotes below are verbatim from it.

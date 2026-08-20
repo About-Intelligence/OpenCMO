@@ -1,5 +1,7 @@
 # Jared Liu (宗源) — Growth Engineer at YouMind
 
+**Find them**: [X](https://x.com/jaredliu_bravo)
+
 ## Source
 
 - **Name**: Jared Liu (宗源)

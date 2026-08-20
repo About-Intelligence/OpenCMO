@@ -1,5 +1,7 @@
 # Holly Chen — ExponentialX, the PLG vs SLG Channel Framework
 
+**Find them**: [LinkedIn](https://www.linkedin.com/in/holly) · [X](https://x.com/HollyNY) · [ExponentialX](https://www.exponentialx.com/team/holly-chen)
+
 **Who**: Founder of ExponentialX; former growth advisor to Slack, Miro, and Loom; former Google product marketing  
 **Sources**:
 - Holly's Substack, the "PLG vs SLG" series: https://hollychen.substack.com/ — the ARR-stage framework is also published as "Growth Channels By ARR Stage: PLG vs. SLG" on The GTM Newsletter: https://thegtmnewsletter.substack.com/p/growth-channels-by-arr-stage-plg
