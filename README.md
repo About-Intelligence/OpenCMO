@@ -1,5 +1,7 @@
 # OpenCMO
 
+<img src="assets/hero.png" alt="OpenCMO — growth playbooks from 17 operators, installable in your AI agent" width="100%">
+
 > The open-source CMO. Growth playbooks from 17 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
 **Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home & ABM &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
