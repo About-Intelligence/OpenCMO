@@ -1,6 +1,6 @@
-# Deep Insights: Eleven Meta-Patterns Across 17 Practitioners
+# Deep Insights: Eleven Meta-Patterns Across 16 Practitioners
 
-> This is not any single expert's viewpoint. It captures the **patterns that only become visible** once you lay the library's 17 practitioners + 4 company teardowns side by side. Every entry carries a cross-source evidence chain — conclusions that a single source cannot support are not admitted.
+> This is not any single expert's viewpoint. It captures the **patterns that only become visible** once you lay the library's 16 practitioners + 4 company teardowns side by side. Every entry carries a cross-source evidence chain — conclusions that a single source cannot support are not admitted.
 >
 > How to use it: when you face a concrete growth decision and the individual expert files give conflicting answers, come back here first for the meta-pattern, then return to the specific files for the operational detail. For "what should I do, given my company type and stage," jump straight to [the decision tables](#the-decision-tables-what-works-by-category-and-by-stage) at the end.
 
@@ -76,7 +76,7 @@ Place each expert's core framework side by side and you find they are **the same
 | App growth | ASA (you can pick the keywords = high intent) vs UAC (black box = the algorithm guesses intent) | The channels themselves are priced by intent |
 | OOH / the 95:5 rule | At any moment only 5% of buyers are in-market | The distribution of intent across time |
 
-**Operational implication**: when you pick up any new channel, the first task is not studying its tactics but mapping its **intent gradient** — which tier carries the highest intent, which tier you claim first, and what asset catches each tier. Tactics expire (Jon Loomer's eight "I was wrong" pieces are one long history of expired tactics); intent grading doesn't.
+**Operational implication**: when you pick up any new channel, the first task is not studying its tactics but mapping its **intent gradient** — which tier carries the highest intent, which tier you claim first, and what asset catches each tier. Tactics expire — every platform's targeting playbook has been rewritten by algorithm changes at least once — but intent grading doesn't.
 
 ---
 
@@ -220,7 +220,7 @@ Everything above is diagnosis. These tables are the prescription — built stric
 
 ## Appendix: a meta-observation about this knowledge base itself
 
-**Every expert's most valuable insight is a negation of the consensus of its time.** Jon Loomer's best content is "I Was Wrong"; Yuriy's best passage is the admission that "the best content doesn't always win"; Elena's signature claim is that "60–70% of traditional growth tactics no longer work"; the value of the Jasper case lies in falsifying a popular narrative.
+**Every expert's most valuable insight is a negation of the consensus of its time.** Yuriy's best passage is the admission that "the best content doesn't always win"; Elena's signature claim is that "60–70% of traditional growth tactics no longer work"; the value of the Jasper case lies in falsifying a popular narrative.
 
 Which means two things:
 1. **Growth knowledge has a half-life.** Whatever has become "best practice" is most likely already decaying (because everyone is doing it); an expert's value density is concentrated in judgments that run "contrary to current consensus, and are backed by data"

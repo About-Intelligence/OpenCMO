@@ -251,23 +251,6 @@ Added to cart / started sign-up but didn't finish
 ### Rex Gelb (Head of Paid Media, Cursor)
 > On Meta, the more you intervene, the worse it gets. Broaden targeting and let the algorithm optimize on its own. Combine placements and let the system decide between Facebook and Instagram.
 
-### Jon Loomer (jonloomer.com, independent Meta ads researcher since 2011)
-
-**Five core principles**:
-
-1. **The algorithm executes literally**: whatever Performance Goal you pick, the system finds exactly those people. Picking the wrong goal is the root cause of most failures — not the creative.
-2. **Targeting obsession is mostly wasted**: in the Advantage+ era, the marginal value of manual targeting has nearly vanished.
-   > "Your targeting inputs just aren't that important."
-3. **Attribution is your responsibility**: CAPI misconfigured → the algorithm is fed wrong data → optimization goes off course. The platform only mirrors reality.
-4. **Simplicity beats complexity**:
-   > "A complicated approach often works against you. It waters down your budget, drives up costs."
-5. **Strategic intervention**: neither fully hands-off nor fully controlling. Only by understanding the algorithm's mechanics do you know when to step in.
-
-**The core evolution of his views (2026)**: from fine-grained targeting → trusting the algorithm; from complex structures → radical simplification; from controlling placements → letting the system allocate; **creative is now the most important lever**.
-
-> "You will be wrong. If you are unable to embrace this possibility, you're likely to create a fantasy land where everyone else is to blame but you."
-
-→ Full methodology: [experts/jon-loomer-meta.md](../experts/jon-loomer-meta.md)
 
 ### CCM Marketing Lab (WeChat official account)
 

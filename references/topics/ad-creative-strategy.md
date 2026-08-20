@@ -17,7 +17,7 @@ With platform AI fully taking over bidding and targeting, **creative has become 
 - Now: the only levers humans control are creative quality and testing frequency
 - Result: you need more creative variants, higher testing frequency, and more focus on steering creative direction
 
-Jon Loomer (Meta ads researcher) makes the same point: the Andromeda model lets different assets reach different audiences — **creative diversity is itself a targeting strategy**.
+The same logic runs the other way too: because the Andromeda model lets different assets reach different audiences, **creative diversity is itself a targeting strategy**.
 
 ---
 
@@ -211,7 +211,6 @@ On any platform, the first 3 seconds (video) / opening line (static) decide whet
 | Expert | Core contribution | Detailed doc |
 |------|---------|---------|
 | Rex Gelb (Cursor) | Three-platform creative strategy; creative's new status as AI takes over bidding in 2026 | [experts/rex-gelb-cursor.md](../experts/rex-gelb-cursor.md) |
-| Jon Loomer (jonloomer.com) | Creative diversity as targeting strategy; the Andromeda model's logic | [experts/jon-loomer-meta.md](../experts/jon-loomer-meta.md) |
 | Ben Lang (Notion/Cursor) | All-video YouTube strategy; creators genuinely using the product vs reading a script | [experts/ben-lang-notion-cursor.md](../experts/ben-lang-notion-cursor.md) |
 | Matt Swulinski (Wispr Flow) | Creative volume benchmark ($100K→400–500 assets/month); "creative bundle diversity" thinking; 5% cap on AI creative | [experts/matt-swulinski-wispr-flow.md](../experts/matt-swulinski-wispr-flow.md) |
 | Meltem Berkowitz (Deel) | ~Three-week creative fatigue cycle; monthly refresh cadence | [experts/meltem-berkowitz-deel.md](../experts/meltem-berkowitz-deel.md) |

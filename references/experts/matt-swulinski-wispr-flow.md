@@ -226,7 +226,7 @@ He also disclosed something honest: he was an early Claude Code user, starting i
 
 **These four disagree less than it appears**: Matt requires "get tracking right first and accumulate 50 conversions"; Meltem requires "lay the website and content foundation first" — both are really saying **paid acquisition is an amplifier, not an engine**. Elena objects to "throwing money before validation," not to paid itself. The only real disagreement is how much of the groundwork counts as "part of paid acquisition."
 
-**On creative strategy** he is highly aligned with [Jon Loomer](jon-loomer-meta.md): both believe that after Meta's algorithm evolution, targeting obsession is obsolete and creative has become the only lever. Matt adds a quantitative bar ($100K budget → 400–500 creatives/month).
+**On creative strategy**: after Meta's algorithm evolution, targeting obsession is obsolete and creative has become the only lever. Matt puts a quantitative bar on it ($100K budget → 400–500 creatives/month).
 → Rolled up in [topics/ad-creative-strategy.md](../topics/ad-creative-strategy.md)
 
 **On tracking setup**, his view and Rex Gelb's "incomplete tracking gives the algorithm distorted data" are two phrasings of the same judgment.

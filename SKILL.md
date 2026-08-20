@@ -1,13 +1,13 @@
 ---
 name: open-cmo
 description: >
-  Real-world growth & GTM know-how from 17 tech-company operators.
+  Real-world growth & GTM know-how from 16 tech-company operators.
   Covers: paid ads (Google/Meta/LinkedIn), out-of-home & ABM, channel selection,
   PLG→Enterprise, SEO/GEO, programmatic SEO, launches & Product Hunt,
   pricing & monetization for AI products, ad creative strategy, organic and
   viral growth, and growth engineering with agents.
   Distilled from primary sources: interviews, transcripts, bylined articles.
-  Contributors include Rex Gelb (Cursor), Jon Loomer (Meta ads), Jared Liu (YouMind),
+  Contributors include Rex Gelb (Cursor), Jared Liu (YouMind),
   Ben Lang (Notion/Cursor), Lena Waters (Notion), Karri Saarinen (Linear),
   Morgane Palomares (ex-Vercel), Elena Verna (Lovable), Holly Chen (ExponentialX),
   Phil Carter (Elemental Growth), Austin Lau (Anthropic), Matt Swulinski (Wispr Flow),
@@ -38,7 +38,7 @@ triggers:
 metadata:
   version: "1.0.0"
   last_updated: "2026-08-19"
-  experts_count: 17
+  experts_count: 16
   language: en
 ---
 
@@ -73,7 +73,6 @@ First-hand experience from people who ran growth at real companies. Not framewor
 | Operator | Company | Focus | Core thesis | File |
 |----------|---------|-------|-------------|------|
 | Rex Gelb | Cursor | LinkedIn/Google/Meta | Don't buy ads before PMF; staged SEM; in 2026 AI runs bidding — creative/tracking/landing pages are the levers left | [→](references/experts/rex-gelb-cursor.md) |
-| Jon Loomer | jonloomer.com | Meta ads research | The algorithm is literal; targeting obsession is obsolete; simplify structure; creative is the lever | [→](references/experts/jon-loomer-meta.md) |
 
 ### Growth advisors / cross-company frameworks
 
@@ -100,7 +99,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 |---------|----------|---------------|-------|--------|
 | LinkedIn | B2B, enterprise, ABM | CPC $5.50–$8.50 | CTR 0.44–0.65%, ROAS 4.1–8.3x (2026 benchmarks) | Rex Gelb |
 | Google Search | High-intent, active search | Varies by vertical | Start with brand terms | Rex Gelb |
-| Meta (FB+IG) | Visual products, scale | T0-country CPMs high | Creative supply is the gate | Rex Gelb / Jon Loomer |
+| Meta (FB+IG) | Visual products, scale | T0-country CPMs high | Creative supply is the gate | Rex Gelb |
 | OOH (out-of-home) | Mature B2B, geo-concentrated buyers, high ACV | ~$100K minimum per major market | Self-reported attribution mostly | Stytch / Notion / Clay / Unify |
 
 → Details in [channels/](references/channels/)

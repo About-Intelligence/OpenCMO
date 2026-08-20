@@ -1,12 +1,12 @@
 # OpenCMO
 
-<img src="assets/hero.png" alt="OpenCMO — growth playbooks from 17 operators, installable in your AI agent" width="100%">
+<img src="assets/hero.png" alt="OpenCMO — growth playbooks from 16 operators, installable in your AI agent" width="100%">
 
-> The open-source CMO. Growth playbooks from 17 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
+> The open-source CMO. Growth playbooks from 16 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
 **Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home & ABM &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Experts](https://img.shields.io/badge/experts-17-blue) ![Cases](https://img.shields.io/badge/case_teardowns-4-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Experts](https://img.shields.io/badge/experts-16-blue) ![Cases](https://img.shields.io/badge/case_teardowns-4-orange)
 
 ---
 
@@ -67,7 +67,7 @@ The agent answers by citing specific people and their specific conditions, not b
 open-cmo/
 ├── SKILL.md                     # entry point: expert index + scenario navigation
 └── references/
-    ├── experts/    17 operators          # theses, verbatim quotes, contrarian takes, conflicts
+    ├── experts/    16 operators          # theses, verbatim quotes, contrarian takes, conflicts
     ├── cases/       4 teardowns (10+ companies)  # PSEO canon, Canva deep-dive, OpenRouter, Jasper debunk
     ├── channels/    4 channels           # Google, Meta, LinkedIn, out-of-home
     ├── topics/      9 topics             # timing, creative, attribution, SEO, pricing, launches...
@@ -79,7 +79,6 @@ open-cmo/
 | Person | Background | One line to remember them by |
 |--------|-----------|------------------------------|
 | Rex Gelb | Paid media, Cursor | Don't buy ads before PMF; after AI took over bidding, creative/tracking/landing pages are the three levers left |
-| Jon Loomer | Meta ads researcher | The algorithm is literal; his "I was wrong" series catalogs eight practices the algorithm made obsolete |
 | Matt Swulinski | Wispr Flow → Viktor | Ran $1M/month solo; "creative is the targeting"; caps AI-generated creative at 5% |
 | Elena Verna | CPO, Lovable | "60–70% of traditional growth tactics don't apply anymore"; PMF is a treadmill, not a destination |
 | Meltem Berkowitz | CGO, Deel | 0→$300M in 3 years, profitably; the SEO traffic-light framework; "no successful paid ads on a 4-second site" |
