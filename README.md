@@ -1,6 +1,6 @@
 # OpenCMO
 
-<img src="assets/hero.png" alt="OpenCMO — growth playbooks from 16 operators, installable in your AI agent" width="100%">
+<img src="assets/hero-v2.png" alt="OpenCMO — growth playbooks from 16 operators, installable in your AI agent" width="100%">
 
 > The open-source CMO. Growth playbooks from 16 operators who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
