@@ -112,6 +112,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 | New to growth? Start here | [guides/growth-101-four-pillars.md](references/guides/growth-101-four-pillars.md) |
 | Taking a PLG product into enterprise | [guides/plg-to-enterprise.md](references/guides/plg-to-enterprise.md) |
 | Eleven meta-patterns + decision tables (by category, by stage) | [guides/deep-insights.md](references/guides/deep-insights.md) |
+| Why the experts disagree — every fight analyzed by company context | [guides/why-experts-disagree.md](references/guides/why-experts-disagree.md) |
 
 ## Scenario navigation
 
@@ -119,6 +120,7 @@ First-hand experience from people who ran growth at real companies. Not framewor
 |---------------|-----------|
 | **Strategy calls** | |
 | The experts disagree — is there a meta-pattern? | [guides/deep-insights.md](references/guides/deep-insights.md) |
+| Why do they disagree? Which side fits my company? | [guides/why-experts-disagree.md](references/guides/why-experts-disagree.md) |
 | What works for my company type at my stage? | [guides/deep-insights.md](references/guides/deep-insights.md) (decision tables) |
 | Should we start running ads now? (four positions compared) | [topics/pmf-timing.md](references/topics/pmf-timing.md) |
 | Which channel first for a cold start — Google or Meta? | [topics/channel-selection-strategy.md](references/topics/channel-selection-strategy.md) |

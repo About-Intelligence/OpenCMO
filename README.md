@@ -69,7 +69,7 @@ open-cmo/
     ├── cases/       4 teardowns (10+ companies)  # PSEO canon, Canva deep-dive, OpenRouter, Jasper debunk
     ├── channels/    4 channels           # Google, Meta, LinkedIn, out-of-home
     ├── topics/      9 topics             # timing, creative, attribution, SEO, pricing, launches...
-    └── guides/      3 guides             # growth 101, PLG→enterprise, cross-expert meta-patterns
+    └── guides/      4 guides             # growth 101, PLG→enterprise, meta-patterns, why experts disagree
 ```
 
 ### The operators

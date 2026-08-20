@@ -206,6 +206,8 @@ Everything above is diagnosis. These tables are the prescription — built stric
 
 ### When the experts fight, one variable settles it
 
+> Full analysis of every disagreement — including *why* each side believed what they believed, rooted in their company's category, margins, and stage — in [why-experts-disagree.md](why-experts-disagree.md).
+
 | The fight | What settles it |
 |---|---|
 | Paid now (Swulinski) vs. paid later (Verna, Gelb, Berkowitz) | Whether the engine is proven — "tracking + 50 conversions" and the PMF gates are the same checkpoint in different clothes (pattern #1) |
