@@ -19,6 +19,8 @@ Ask an agent with OpenCMO installed, and you get four operators who disagree:
 | Elena Verna (Lovable) | Year one is a death trap | Payback period under 3 months | $400M ARR in 18 months |
 | Meltem Berkowitz (Deel) | Foundations first | Site loads <4s, findable, content to catch demand | 0→$300M in 3 years, profitably |
 
+Paid ads are just the demo. The library gives the same treatment to the whole growth stack: SEO and programmatic SEO, launches and Product Hunt, pricing and monetization, creator and influencer programs, out-of-home and ABM, PLG-to-enterprise, attribution, and growth engineering with agents.
+
 Real growth knowledge looks like this: conditional, contextual, and contradictory. Average the disagreements away and you get soup.
 
 Three rules govern everything in here:
