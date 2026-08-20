@@ -10,6 +10,29 @@
 
 ---
 
+## The experts
+
+Sixteen people who ran growth at companies you know, each distilled from first-hand sources — podcast transcripts, bylined essays, their own posts. Every claim carries a link back to where they said it.
+
+| Person | Background | One line to remember them by |
+|--------|-----------|------------------------------|
+| [Rex Gelb](references/experts/rex-gelb-cursor.md) | Paid media, Cursor | Don't buy ads before PMF; after AI took over bidding, creative/tracking/landing pages are the three levers left |
+| [Matt Swulinski](references/experts/matt-swulinski-wispr-flow.md) | Wispr Flow → Viktor | Ran $1M/month solo; "creative is the targeting"; caps AI-generated creative at 5% |
+| [Elena Verna](references/experts/elena-verna-lovable.md) | CPO, Lovable | "60–70% of traditional growth tactics don't apply anymore"; PMF is a treadmill, not a destination |
+| [Meltem Berkowitz](references/experts/meltem-berkowitz-deel.md) | CGO, Deel | 0→$300M in 3 years, profitably; the SEO traffic-light framework; "no successful paid ads on a 4-second site" |
+| [Yuriy Timen](references/experts/yuriy-timen-grammarly.md) | Grammarly, 9 years | The oil-wells theory of channels; admits the best content doesn't always win — and why brands shouldn't chase the shortcut anyway |
+| [Karri Saarinen](references/experts/karri-saarinen-linear.md) | CEO, Linear | $35K total marketing spend to a $1.25B valuation; the methodology is the marketing |
+| [Lena Waters](references/experts/lena-waters-notion.md) | CMO, Notion | "We used to sell to humans who researched with tools. Now we sell to tools that report to humans" |
+| [Ben Lang](references/experts/ben-lang-notion-cursor.md) | Early Notion / Cursor | Full-length creator videos over ad reads; evergreen signup flywheels |
+| [Morgane Palomares](references/experts/morgane-palomares-vercel.md) | ex-VP Marketing, Vercel | Replaced SDRs with technically-trained Product Advocates |
+| [Holly Chen](references/experts/holly-chen-exponentialx.md) | ExponentialX (ex-Slack, Google, Loom, Miro) | Channel choice follows ARR stage; PLG and sales-led converge past $20M |
+| [Phil Carter](references/experts/phil-carter-elemental-growth.md) | Elemental Growth (ex-Quizlet) | 80% of trials start on day zero — the first session is the whole game |
+| [Jared Liu (宗源)](references/experts/jared-liu-youmind.md) | Growth engineer, YouMind | Aggregation-site flywheels; "growth while you sleep" via agent automation |
+| [Frank](references/experts/frank-ai-overseas-growth.md) | AI product, 5M users | The four-pillar system: SEM validates, SEO builds the asset, GEO rides along, social amplifies the brand |
+| [Austin Lau](references/experts/austin-lau-anthropic.md) | Growth, Anthropic | Cut ad production from 30 minutes to 30 seconds by building his own tools, having never opened a terminal before |
+| [Grant Lee](references/experts/grant-lee-gamma.md) | CEO, Gamma | Won Product Hunt, still called it no-PMF; rebuilt the first 30 seconds and went to 20K signups/day with zero marketing |
+| [Chris Pedregal](references/experts/chris-pedregal-granola.md) | CEO, Granola | A year in closed beta, ~150 hand-onboarded users, no built-in growth loops — it spread through VC circles anyway |
+
 ## Why this exists
 
 Ask any AI assistant "should we start running ads?" and you get a balanced, reasonable, useless answer.
@@ -73,27 +96,6 @@ open-cmo/
     ├── topics/      9 topics             # timing, creative, attribution, SEO, pricing, launches...
     └── guides/      4 guides             # growth 101, PLG→enterprise, meta-patterns, why experts disagree
 ```
-
-### The experts
-
-| Person | Background | One line to remember them by |
-|--------|-----------|------------------------------|
-| Rex Gelb | Paid media, Cursor | Don't buy ads before PMF; after AI took over bidding, creative/tracking/landing pages are the three levers left |
-| Matt Swulinski | Wispr Flow → Viktor | Ran $1M/month solo; "creative is the targeting"; caps AI-generated creative at 5% |
-| Elena Verna | CPO, Lovable | "60–70% of traditional growth tactics don't apply anymore"; PMF is a treadmill, not a destination |
-| Meltem Berkowitz | CGO, Deel | 0→$300M in 3 years, profitably; the SEO traffic-light framework; "no successful paid ads on a 4-second site" |
-| Yuriy Timen | Grammarly, 9 years | The oil-wells theory of channels; admits the best content doesn't always win — and why brands shouldn't chase the shortcut anyway |
-| Karri Saarinen | CEO, Linear | $35K total marketing spend to a $1.25B valuation; the methodology is the marketing |
-| Lena Waters | CMO, Notion | "We used to sell to humans who researched with tools. Now we sell to tools that report to humans" |
-| Ben Lang | Early Notion / Cursor | Full-length creator videos over ad reads; evergreen signup flywheels |
-| Morgane Palomares | ex-VP Marketing, Vercel | Replaced SDRs with technically-trained Product Advocates |
-| Holly Chen | ExponentialX (ex-Slack, Google, Loom, Miro) | Channel choice follows ARR stage; PLG and sales-led converge past $20M |
-| Phil Carter | Elemental Growth (ex-Quizlet) | 80% of trials start on day zero — the first session is the whole game |
-| Jared Liu (宗源) | Growth engineer, YouMind | Aggregation-site flywheels; "growth while you sleep" via agent automation |
-| Frank | AI product, 5M users | The four-pillar system: SEM validates, SEO builds the asset, GEO rides along, social amplifies the brand |
-| Austin Lau | Growth, Anthropic | Cut ad production from 30 minutes to 30 seconds by building his own tools, having never opened a terminal before |
-| Grant Lee | CEO, Gamma | Won Product Hunt, still called it no-PMF; rebuilt the first 30 seconds and went to 20K signups/day with zero marketing |
-| Chris Pedregal | CEO, Granola | A year in closed beta, ~150 hand-onboarded users, no built-in growth loops — it spread through VC circles anyway |
 
 ### The meta-patterns
 
