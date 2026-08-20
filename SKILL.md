@@ -68,16 +68,11 @@ First-hand experience from people who ran growth at real companies. Not framewor
 | Karri Saarinen | Linear | B2B dev tools, zero paid marketing | $35K total marketing → $1.25B; the methodology is the marketing | [→](references/experts/karri-saarinen-linear.md) |
 | Morgane Palomares | ex-Vercel (→ Braintrust) | Dev tools, PLG→Enterprise | Product Advocates instead of SDRs; dual self-serve + enterprise goals | [→](references/experts/morgane-palomares-vercel.md) |
 
-### Paid advertising specialists
+### Paid media & growth advisors
 
 | Operator | Company | Focus | Core thesis | File |
 |----------|---------|-------|-------------|------|
 | Rex Gelb | Cursor | LinkedIn/Google/Meta | Don't buy ads before PMF; staged SEM; in 2026 AI runs bidding — creative/tracking/landing pages are the levers left | [→](references/experts/rex-gelb-cursor.md) |
-
-### Growth advisors / cross-company frameworks
-
-| Operator | Company | Focus | Core thesis | File |
-|----------|---------|-------|-------------|------|
 | Elena Verna | Lovable (ex-Miro/Dropbox) | AI prosumer / advisor | "60–70% of traditional growth tactics don't apply anymore"; PMF treadmill; the aha moment collapsed into the first interaction | [→](references/experts/elena-verna-lovable.md) |
 | Holly Chen | ExponentialX (ex-Slack/Miro/Loom) | PLG→SLG advisor | Channel choice follows ARR stage; PLG/SLG converge past $20M; B2B influencer marketing | [→](references/experts/holly-chen-exponentialx.md) |
 | Phil Carter | Elemental Growth (ex-Quizlet) | Consumer subscription advisor | Growth split into Creation/Delivery/Capture; 80% of trials start day zero; value-to-noise ratio; viral artifacts + AEO | [→](references/experts/phil-carter-elemental-growth.md) |
