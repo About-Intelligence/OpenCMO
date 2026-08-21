@@ -59,11 +59,10 @@ Three rules govern everything in here:
 ## Install
 
 ```bash
-# global (or swap the path for .claude/skills/open-cmo to scope it to one project)
-git clone https://github.com/About-Intelligence/OpenCMO.git ~/.claude/skills/open-cmo
+curl -fsSL https://raw.githubusercontent.com/About-Intelligence/OpenCMO/main/install.sh | bash
 ```
 
-Cursor, Codex, or any other agent that reads markdown: clone it and point your rules at `SKILL.md`.
+Add `-s -- --project` to scope it to the current repo instead of your home directory. Re-run it any time to update. Prefer to see what you're running? [Read the script](install.sh) or just `git clone` this repo into `~/.claude/skills/`.
 
 Then ask it real questions — "should we turn on Google Ads?", "how many Meta creatives per month at $100k?", "is a billboard worth it, and how would we attribute it?" — and it answers by citing specific people and the conditions they set, not by averaging advice into mush.
 
