@@ -58,31 +58,14 @@ Three rules govern everything in here:
 
 ## Install
 
-Claude Code, global:
-
 ```bash
+# global (or swap the path for .claude/skills/open-cmo to scope it to one project)
 git clone https://github.com/About-Intelligence/OpenCMO.git ~/.claude/skills/open-cmo
 ```
 
-Claude Code, single project:
+Cursor, Codex, or any other agent that reads markdown: clone it and point your rules at `SKILL.md`.
 
-```bash
-git clone https://github.com/About-Intelligence/OpenCMO.git .claude/skills/open-cmo
-```
-
-Cursor, Codex, or anything else that reads markdown: clone the repo and point your rules/context at `SKILL.md`.
-
-Then ask your agent things like:
-
-```
-We're an AI SaaS just past PMF. Should we turn on Google Ads?
-Run these 200 keywords through Deel's traffic-light framework.
-How many Meta creatives per month at a $100k budget? How much can be AI-generated?
-We want to do programmatic SEO. Walk me through the self-audit checklist first.
-Is a billboard campaign worth it? What budget, and how would we attribute it?
-```
-
-The agent answers by citing specific people and their specific conditions, not by generating plausible-sounding advice.
+Then ask it real questions — "should we turn on Google Ads?", "how many Meta creatives per month at $100k?", "is a billboard worth it, and how would we attribute it?" — and it answers by citing specific people and the conditions they set, not by averaging advice into mush.
 
 ## What's inside
 
