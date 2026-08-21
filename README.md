@@ -4,7 +4,7 @@
 
 > The open-source CMO. Growth playbooks from 16 experts who actually ran the numbers — Cursor, Notion, Linear, Deel, Canva, Lovable, Grammarly, Wispr Flow — packaged as an installable skill for your AI agent.
 
-**Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home & ABM &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
+**Covers the whole growth stack**: paid ads (Google · Meta · LinkedIn) &nbsp;·&nbsp; out-of-home &nbsp;·&nbsp; SEO & programmatic SEO &nbsp;·&nbsp; launches & Product Hunt &nbsp;·&nbsp; pricing & monetization &nbsp;·&nbsp; creator & influencer programs &nbsp;·&nbsp; PLG→enterprise &nbsp;·&nbsp; attribution & tracking &nbsp;·&nbsp; growth engineering with agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Experts](https://img.shields.io/badge/experts-16-blue) ![Cases](https://img.shields.io/badge/case_teardowns-4-orange)
 
